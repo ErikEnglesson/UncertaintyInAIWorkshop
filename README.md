@@ -12,4 +12,4 @@ Slides can be found in the Slides folder or at this direct link:
 [https://github.com/ErikEnglesson/UncertaintyInAIWorkshop/tree/main/Slides](https://github.com/ErikEnglesson/UncertaintyInAIWorkshop/tree/main/Slides)
 
 # Practical
-To be released.
+The practical is a notebook that can be found here: [https://colab.research.google.com/drive/1ImqSxUHvji0EwndIWn9RahP2rDfkMJwy?usp=sharing](https://colab.research.google.com/drive/1ImqSxUHvji0EwndIWn9RahP2rDfkMJwy?usp=sharing)
